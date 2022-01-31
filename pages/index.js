@@ -36,7 +36,6 @@ export default function Home({propertiesForSale, propertiesForRent}) {
 
   return (
     <div>
-      <h1>Hello World</h1>
       <Box>
       <Banner 
  purpose='RENT A HOME'
